@@ -1,0 +1,11 @@
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\bin\Debug\Registration_Page.exe.config
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\bin\Debug\Registration_Page.exe
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\bin\Debug\Registration_Page.pdb
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\obj\Debug\Registration_Page.csproj.AssemblyReference.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\obj\Debug\Registration_Page.csproj.SuggestedBindingRedirects.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\obj\Debug\Registration_Page.Form1.resources
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\obj\Debug\Registration_Page.Properties.Resources.resources
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\obj\Debug\Registration_Page.csproj.GenerateResource.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\obj\Debug\Registration_Page.csproj.CoreCompileInputs.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\obj\Debug\Registration_Page.exe
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Registration_Page\Registration_Page\obj\Debug\Registration_Page.pdb

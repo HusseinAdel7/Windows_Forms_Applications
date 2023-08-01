@@ -1,0 +1,11 @@
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\obj\Debug\Full_Registeration_Form.csproj.AssemblyReference.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\obj\Debug\Full_Registeration_Form.csproj.SuggestedBindingRedirects.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\obj\Debug\Full_Registeration_Form.Form1.resources
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\obj\Debug\Full_Registeration_Form.Properties.Resources.resources
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\obj\Debug\Full_Registeration_Form.csproj.GenerateResource.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\obj\Debug\Full_Registeration_Form.csproj.CoreCompileInputs.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\bin\Debug\Full_Registeration_Form.exe.config
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\bin\Debug\Full_Registeration_Form.exe
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\bin\Debug\Full_Registeration_Form.pdb
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\obj\Debug\Full_Registeration_Form.exe
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Full_Registeration_Form\Full_Registeration_Form\obj\Debug\Full_Registeration_Form.pdb
