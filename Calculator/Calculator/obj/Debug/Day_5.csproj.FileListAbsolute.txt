@@ -1,0 +1,13 @@
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\bin\Debug\Day_5.exe.config
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\bin\Debug\Day_5.exe
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\bin\Debug\Day_5.pdb
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\obj\Debug\Day_5.csproj.AssemblyReference.cache
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\obj\Debug\Day_5.csproj.SuggestedBindingRedirects.cache
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\obj\Debug\Day_5.Properties.Resources.resources
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\obj\Debug\Day_5.csproj.GenerateResource.cache
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\obj\Debug\Day_5.csproj.CoreCompileInputs.cache
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\obj\Debug\Day_5.exe
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\obj\Debug\Day_5.pdb
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\obj\Debug\Day_5.Form1.resources
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\bin\Debug\Guna.UI2.dll
+G:\Projects\ITI\Advanced C#\Day_5\Day_5\obj\Debug\Day_5.csproj.CopyComplete

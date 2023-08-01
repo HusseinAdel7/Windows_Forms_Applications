@@ -1,0 +1,11 @@
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\bin\Debug\Convertor.exe.config
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\bin\Debug\Convertor.exe
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\bin\Debug\Convertor.pdb
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\obj\Debug\Convertor.csproj.AssemblyReference.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\obj\Debug\Convertor.csproj.SuggestedBindingRedirects.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\obj\Debug\Convertor.csproj.GenerateResource.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\obj\Debug\Convertor.exe
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\obj\Debug\Convertor.pdb
+G:\Projects\ITI\Advanced C#\Day_5 WindowsFrom\Convertor\Convertor\obj\Debug\Convertor.Convertor.resources
