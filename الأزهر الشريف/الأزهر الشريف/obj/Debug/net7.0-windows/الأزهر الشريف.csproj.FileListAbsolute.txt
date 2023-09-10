@@ -1,0 +1,33 @@
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\الأزهر الشريف.exe
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\الأزهر الشريف.deps.json
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\الأزهر الشريف.runtimeconfig.json
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\الأزهر الشريف.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\الأزهر الشريف.pdb
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.csproj.AssemblyReference.cache
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.Form1.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.csproj.GenerateResource.cache
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.AssemblyInfoInputs.cache
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.AssemblyInfo.cs
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.csproj.CoreCompileInputs.cache
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\refint\الأزهر الشريف.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.pdb
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.genruntimeconfig.cache
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\ref\الأزهر الشريف.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.Properties.Resources.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.AlazharPlane1.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.HomePageApp.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.AlazharPlan2.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.ContactUs.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.SettingsApp.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.Form2.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.ActualPlan.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر_الشريف.ActualPlan2.resources
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\OfficeOpenXml.Core.ExcelPackage.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\PdfSharp.Charting.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\PdfSharp.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\de\PdfSharp.Charting.resources.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\bin\Debug\net7.0-windows\de\PdfSharp.resources.dll
+G:\Projects\Projects in C#\معهد الأزهر الشريف\الأزهر الشريف\الأزهر الشريف\obj\Debug\net7.0-windows\الأزهر الشريف.csproj.CopyComplete
